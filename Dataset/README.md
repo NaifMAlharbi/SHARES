@@ -32,7 +32,6 @@ Our dataset focuses on **Arabic emergency words**. Specifically, we have **10 Ar
 - **Repetitions**: 3 per speaker  
 - **Total Clips**: 330  
 - **Clip Length**: 1–2 seconds each
-- 
 
 ---
 
