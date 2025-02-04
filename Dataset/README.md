@@ -49,9 +49,9 @@ Our dataset focuses on **Arabic emergency words**. Specifically, we have **10 Ar
    - Pixel values scaled to the range `[0, 1]`.
 
 4. **Data Augmentation (Training only)**  
-   - Small random rotations (±5°)  
+   - Small random rotations (±2° or ±8°)  
    - Horizontal flips (p=0.2)  
-   - Minor brightness/contrast jitter (±10%)  
+   - Minor brightness/contrast jitter (±20%)  
 
 ---
 
